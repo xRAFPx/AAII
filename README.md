@@ -1,3 +1,4 @@
 # AAII
 
-## Repository created for the Group Project of AAII
+## Repository created for the Project of AAII
+# Rita Pereira, PG41098
