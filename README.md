@@ -1,4 +1,5 @@
 # AAII
 
-## Repository created for the Project of AAII
-### Rita Pereira, PG41098
+## Repositório criado para o projeto de AAII
+### Autor: Rita Pereira, PG41098
+
