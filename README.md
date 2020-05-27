@@ -16,6 +16,8 @@ Para uma melhor previsão foram utilizados os dados de temperatura fornecidos pe
 |---|---|---|---|---|
 |  Porto |  Lisboa |  Faro |  Évora |  Coimbra |
 
+Os datasets utilizados podem ser observados na pasta Data.
+
 **Modelos**
 ---------------
 As arquiteturas utilizadas foram LSTM e GRU.
