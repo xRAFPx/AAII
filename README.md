@@ -19,12 +19,17 @@ Para uma melhor previsão foram utilizados os dados de temperatura fornecidos pe
 
 Os datasets utilizados para análise dos dados do COVID-19 e construção do modelo podem ser observados na pasta [Data](https://github.com/xRAFPx/AAII/tree/master/Data).
 
-|Análise de dados|
+Análise de dados
+
 |  Dados diários climatéricos |  Mortes (2014-2020) | 
 |---|---|
 |  [Daily Weather Data](https://github.com/xRAFPx/AAII/tree/master/Data/Daily%20Weather%20Data) |  [Deaths](https://github.com/xRAFPx/AAII/tree/master/Data/Deaths) | 
 
-Os datasets finais utilizados na construção do modelo 
+Construção do modelo
+
+|  Dados diários climatéricos |  Mortes (2014-2020) | 
+|---|---|
+|  [Daily Weather Data](https://github.com/xRAFPx/AAII/tree/master/Data/Daily%20Weather%20Data) |  [Deaths](https://github.com/xRAFPx/AAII/tree/master/Data/Deaths) | 
 
 **Modelos**
 ---------------
