@@ -10,14 +10,18 @@ A equipa de desenvolvimento é composta apenas pela aluna do 1º ano do Mestrado
 
 **Dataset**
 ---------------
-Os dados utilizados do COVID-19 disponibilizados no link https://github.com/dssg-pt/covid19pt-data que correspondem aos fornecidos diariamente nos boletins disponibilizados pela DGS. Em relação aos dados por região apenas são disponibilizados o número de casos confirmados e de óbitos, sendo esse o motivo pela qual foram os assuntos escolhidos para a modelação. Foram utilizados os dados desde o dia 26 de fevereiro de 2020 até ao dia 20 de junho de 2020. 
+Os dados utilizados do COVID-19 foram os disponibilizados no [link](https://github.com/dssg-pt/covid19pt-data) que correspondem aos fornecidos diariamente nos boletins disponibilizados pela DGS. Em relação aos dados por região apenas são disponibilizados o número de casos confirmados e de óbitos, sendo esse o motivo pela qual foram os assuntos escolhidos para a modelação. Foram utilizados os dados desde o dia 26 de fevereiro de 2020 até ao dia 20 de junho de 2020. 
 Para uma melhor previsão foram utilizados os dados de temperatura fornecidos pelo IPMA, a partir da sua API. No entanto, os dados fornecidos pela API do IPMA apenas estão disponíveis para Portugal Continental pelo que foi o grande motivo para apenas trabalhar com as regiões de Portugal Continental. Por haverem regiões, como a região de Lisboa e Vale do Tejo, que compreende integralmente o distrito de Lisboa, quase a totalidade do distrito de Santarém, cerca da metade do distrito de Setúbal e cerca de um terço do distrito de Leiria, foram considerados como temperatura da região a do concelho mais representativo em termos populacionais. Esta interpolação foi feita porque em Portugal não existe uma diferença considerada de temperatura nas várias regiões.
 
 |  Norte |  Lisboa e Vale do Tejo | Algarve |  Alentejo |  Centro |
 |---|---|---|---|---|
 |  Porto |  Lisboa |  Faro |  Évora |  Coimbra |
 
-Os datasets utilizados podem ser observados na pasta [Data](https://github.com/xRAFPx/AAII/tree/master/Data).
+Os datasets utilizados para análise dos dados do COVID-19 podem ser observados na pasta [Data](https://github.com/xRAFPx/AAII/tree/master/Data).
+
+|  Dados diários climatéricos |  Mortes (2014-2020) | 
+|---|---|
+|  [Daily Weather Data](https://github.com/xRAFPx/AAII/tree/master/Data/Daily%20Weather%20Data) |  [Deaths](https://github.com/xRAFPx/AAII/tree/master/Data/Deaths) | 
 
 **Modelos**
 ---------------
