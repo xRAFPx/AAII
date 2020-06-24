@@ -25,11 +25,7 @@ Análise de dados
 |---|---|
 |  [Daily Weather Data](https://github.com/xRAFPx/AAII/tree/master/Data/Daily%20Weather%20Data) |  [Deaths](https://github.com/xRAFPx/AAII/tree/master/Data/Deaths) | 
 
-Construção do modelo
-
-|  Dados diários climatéricos |  Mortes (2014-2020) | 
-|---|---|
-|  [Daily Weather Data](https://github.com/xRAFPx/AAII/tree/master/Data/Daily%20Weather%20Data) |  [Deaths](https://github.com/xRAFPx/AAII/tree/master/Data/Deaths) | 
+Os dados utilizados na construção do modelo podem ser encontrados na pasta seguinte [link](https://github.com/xRAFPx/AAII/upload/master/Data/Final) 
 
 **Modelos**
 ---------------
@@ -37,5 +33,5 @@ As arquiteturas utilizadas foram ARIMA, SVR, LSTM, RNN e GRU. Para cada região 
 
 **Resultados**
 ---------------
-Os resultados de cada um dos modelos podem ser observados na pasta [Model Output](https://github.com/xRAFPx/AAII/tree/master/Data/Model%20Output).
+Os resultados de cada um dos modelos podem ser observados na pasta [Model Output](https://github.com/xRAFPx/AAII/tree/master/Data/Model%20Ouput).
 
